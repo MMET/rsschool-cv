@@ -10,4 +10,14 @@
 * HTML 
 * CSS
 * Javasript
+* Git
 
+##Education
+**Belorussian-Russian University** — 2018.
+
+##Languages
+* **English** — A2
+* **Russian** — native
+
+##Experience
+none
