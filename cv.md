@@ -4,7 +4,7 @@
 **E-mail:** maxbeere@yandex.ru
 
 ## Summary:
-*Junior Web Developer specializing in front end development. I strive for new knowledge and ready to work hard. *
+*Junior Web Developer specializing in front end development. I strive for new knowledge and ready to work hard.*
 
 ## Skill Highlights
 * HTML 
